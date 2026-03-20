@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e029a11d-da8c-48ca-85bb-62086381247b" name="Changes" comment="Primer commit, funcion como clase y primeras graficas" />
+    <list default="true" id="e029a11d-da8c-48ca-85bb-62086381247b" name="Changes" comment="Primer commit, funcion como clase y primeras graficas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TP1.ipynb" afterDir="false" />
+    </list>
+    <list id="c2d43d4f-8819-4985-a157-ebc2938aba8e" name="Changes by kencast" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,25 +21,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Luco1421"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Luco1421&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Luco1421/TP1-IA.git",
-    "accountId": "1fb44cf1-715d-4d22-8c0f-0d85a753ff0f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Luco1421/TP1-IA.git&quot;,
+    &quot;accountId&quot;: &quot;1fb44cf1-715d-4d22-8c0f-0d85a753ff0f&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3B9HiQwsshoPSo64EOy49ehTo7Z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,6 +51,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -57,6 +62,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -76,6 +82,9 @@
       <option name="presentableId" value="Default" />
       <updated>1773894492794</updated>
       <workItem from="1773894493930" duration="961000" />
+      <workItem from="1773895500179" duration="73000" />
+      <workItem from="1773895978756" duration="837000" />
+      <workItem from="1773945977091" duration="18629000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit, funcion como clase y primeras graficas">
       <option name="closed" value="true" />
@@ -94,5 +103,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer commit, funcion como clase y primeras graficas" />
     <option name="LAST_COMMIT_MESSAGE" value="Primer commit, funcion como clase y primeras graficas" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
