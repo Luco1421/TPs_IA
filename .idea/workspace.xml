@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e029a11d-da8c-48ca-85bb-62086381247b" name="Changes" comment="Primer commit, funcion como clase y primeras graficas">
+      <change beforePath="$PROJECT_DIR$/.idea/TP1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TP1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TP1.ipynb" afterDir="false" />
     </list>
+    <list id="065764a9-32a0-4365-a1c2-5a0733851d7a" name="Changes by alejandro" comment="" />
     <list id="c2d43d4f-8819-4985-a157-ebc2938aba8e" name="Changes by kencast" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +60,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Luco1421/Desktop/U/ia/TP1-IA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,6 +89,7 @@
       <workItem from="1773895500179" duration="73000" />
       <workItem from="1773895978756" duration="837000" />
       <workItem from="1773945977091" duration="18629000" />
+      <workItem from="1774401568041" duration="5573000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit, funcion como clase y primeras graficas">
       <option name="closed" value="true" />
