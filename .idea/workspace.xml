@@ -8,7 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TP1.ipynb" afterDir="false" />
     </list>
-    <list id="c2d43d4f-8819-4985-a157-ebc2938aba8e" name="Changes by kencast" comment="" />
+    <list id="f49de70a-b622-4e01-bbdf-f78590c3c888" name="Changes by alejandro" comment="" />
+    <list id="7ce93b89-2208-457e-b1c3-a89e176f152e" name="Changes by kencast" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +90,8 @@
       <workItem from="1774401568041" duration="5631000" />
       <workItem from="1774418501908" duration="1521000" />
       <workItem from="1774420320597" duration="118000" />
+      <workItem from="1774561910847" duration="11816000" />
+      <workItem from="1774573935155" duration="9111000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit, funcion como clase y primeras graficas">
       <option name="closed" value="true" />
