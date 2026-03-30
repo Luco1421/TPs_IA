@@ -4,22 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e029a11d-da8c-48ca-85bb-62086381247b" name="Changes" comment="commit 6, cma-es casi completo, falta docu">
+    <list default="true" id="e029a11d-da8c-48ca-85bb-62086381247b" name="Changes" comment="commit 7, código terminado, solo falta docu externa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TP1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grafico0.png" beforeDir="false" afterPath="$PROJECT_DIR$/grafico0.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grafico2.png" beforeDir="false" afterPath="$PROJECT_DIR$/grafico2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grafico4.png" beforeDir="false" afterPath="$PROJECT_DIR$/grafico4.png" afterDir="false" />
     </list>
-    <list id="b0611359-7a8e-4c5c-bc59-970718c80326" name="Changes by alejandro" comment="" />
-    <list id="42fe4419-ddec-4b21-8434-c1a8734773bd" name="Changes by kencast" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="35" />
+    <option name="cachedIndexableFilesCount" value="15" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -97,7 +95,10 @@
       <workItem from="1774573935155" duration="10015000" />
       <workItem from="1774635909823" duration="91000" />
       <workItem from="1774638202632" duration="6171000" />
-      <workItem from="1774659703718" duration="6381000" />
+      <workItem from="1774659703718" duration="7375000" />
+      <workItem from="1774821638887" duration="748000" />
+      <workItem from="1774836015883" duration="2011000" />
+      <workItem from="1774844117547" duration="2089000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit, funcion como clase y primeras graficas">
       <option name="closed" value="true" />
@@ -131,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774584409933</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit 7, código terminado, solo falta docu externa">
+      <option name="closed" value="true" />
+      <created>1774670714417</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774670714417</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +150,8 @@
     <MESSAGE value="Primer commit, funcion como clase y primeras graficas" />
     <MESSAGE value="commit 3, dudas y mas dudas" />
     <MESSAGE value="commit 6, cma-es casi completo, falta docu" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 6, cma-es casi completo, falta docu" />
+    <MESSAGE value="commit 7, código terminado, solo falta docu externa" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 7, código terminado, solo falta docu externa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
